@@ -1,0 +1,30 @@
+{
+  "name": "udemy-css-04-flexbox--carrito",
+  "version": "1.0.0",
+  "description": "Poyecto carrito de compra",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cli": "^2.2.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "browserlists" : [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programando/Udemy-Css-04-FlexBox--Carrito.git"
+  },
+  "author": "Jhon James Montaño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programando/Udemy-Css-04-FlexBox--Carrito/issues"
+  },
+  "homepage": "https://github.com/programando/Udemy-Css-04-FlexBox--Carrito#readme"
+}
