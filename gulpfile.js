@@ -19,6 +19,7 @@ function css()  {
 function watchFiles() {
     gulp.watch('scss/*.scss', css);
     gulp.watch('index.html');
+    gulp.watch('div.html');
 }
 
 // registrar funciones como tareas
